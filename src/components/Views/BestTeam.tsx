@@ -7,7 +7,9 @@ const BestTeam = () => {
   return (
     <div>
       <div className="mb-10">
-        <TitleComponent>Solutions from the world's best teams.</TitleComponent>
+        <TitleComponent>
+          Solutions from the world`&apos;`s best teams.
+        </TitleComponent>
         <SubText>
           Join Zoom, Product School, Square, and 40,000 other teams that run
           their teams on Coda.

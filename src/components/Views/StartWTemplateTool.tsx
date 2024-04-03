@@ -80,7 +80,8 @@ const StartWTemplateTool = () => {
       <div className="flex flex-col gap-y-5 py-16">
         <TitleComponent>Get started for free.</TitleComponent>
         <SubTitle>
-          Ready to upgrade your documents and wikis? We've got experts to help
+          Ready to upgrade your documents and wikis? We&lsquo;ve got experts to
+          help
         </SubTitle>
         <div className="flex gap-x-5">
           <Button className="w-fit text-xl py-4 px-6 h-fit rounded-xl">

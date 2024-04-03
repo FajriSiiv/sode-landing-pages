@@ -47,8 +47,8 @@ const AboutBenefits = () => {
             A wiki that works for you.
           </h2>
           <p className="text-lg text-slate-800 mt-5">
-            Centralize your team's knowledge, from strategy to schedules, in
-            neatly nested pages. So critical information will never live and
+            Centralize your team`&apos;`s knowledge, from strategy to schedules,
+            in neatly nested pages. So critical information will never live and
             leave with one person.
           </p>
         </div>
